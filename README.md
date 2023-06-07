@@ -30,6 +30,7 @@ Publish the website in the given URL.
 Figma
 
 ## Code :
+```
 
 /* Home Page */
 position: relative;
@@ -142,7 +143,7 @@ height: 96px;
 left: 127px;
 top: 117px;
 background: url(Logo.png);
-
+```
 
 ## OUTPUT:
 ![Screenshot 2023-06-06 223214](https://github.com/Gokul0117/event-registration/assets/121165938/22190abd-9d36-4ff5-8f51-61ab218a824d)
